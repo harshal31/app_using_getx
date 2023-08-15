@@ -1,4 +1,4 @@
-# app_using_getx
+# flutter_app_using_getx
 
 A new Flutter project.
 
